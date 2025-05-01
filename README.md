@@ -45,7 +45,7 @@ or
 
 Script Repositori 2
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/rwrtx/autoscpremi/main/main.sh && chmod +x main.sh && ./main.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/AngIMAN/V1/main/gue.sh && chmod +x gue.sh && ./gue.sh
 ```
 
 ## INSTALL SCRIPT IPV6
